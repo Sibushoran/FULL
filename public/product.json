@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Apple iPhone 14 Pro",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 999,
+    "originalPrice": 1099,
+    "image": "https://via.placeholder.com/200x200.png?text=iPhone+14+Pro",
+    "tag": "Featured",
+    "colors": ["#000000", "#ffffff"]
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 899,
+    "originalPrice": 999,
+    "image": "https://via.placeholder.com/200x200.png?text=Galaxy+S23",
+    "tag": "On Sale",
+    "colors": ["#1e90ff", "#000000"]
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 379,
+    "originalPrice": 399,
+    "image": "https://via.placeholder.com/200x200.png?text=Sony+XM5",
+    "tag": "Featured",
+    "colors": ["#808080"]
+  },
+  {
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 1299,
+    "originalPrice": 1499,
+    "image": "https://via.placeholder.com/200x200.png?text=Dell+XPS+13",
+    "tag": "All",
+    "colors": ["#dcdcdc", "#000000"]
+  },
+  {
+    "name": "LG UltraFine Monitor",
+    "brand": "LG",
+    "category": "Monitors",
+    "price": 599,
+    "originalPrice": 699,
+    "image": "https://via.placeholder.com/200x200.png?text=LG+UltraFine",
+    "tag": "Featured",
+    "colors": ["#000000"]
+  },
+  {
+    "name": "Asus ROG Strix G15",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 1199,
+    "originalPrice": 1399,
+    "image": "https://via.placeholder.com/200x200.png?text=ROG+Strix+G15",
+    "tag": "On Sale",
+    "colors": ["#ff0000", "#000000"]
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "brand": "Apple",
+    "category": "Smartwatches",
+    "price": 499,
+    "originalPrice": 549,
+    "image": "https://via.placeholder.com/200x200.png?text=Apple+Watch+8",
+    "tag": "All",
+    "colors": ["#ffffff", "#ff0000"]
+  },
+  {
+    "name": "Samsung Smart TV 55\"",
+    "brand": "Samsung",
+    "category": "Televisions",
+    "price": 699,
+    "originalPrice": 899,
+    "image": "https://via.placeholder.com/200x200.png?text=Samsung+55+TV",
+    "tag": "Featured",
+    "colors": ["#000000"]
+  }
+]
